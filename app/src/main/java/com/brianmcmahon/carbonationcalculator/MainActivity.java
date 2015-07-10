@@ -13,6 +13,10 @@ import java.text.DecimalFormat;
 formula sourced from http://byo.com/grains/item/164-balancing-your-draft-system-advanced-brewing
  */
 
+/*
+@author Brian McMahon
+Keg Carbonation Calculator for force carbing home brewed beer
+ */
 
 public class MainActivity extends FragmentActivity {
 
